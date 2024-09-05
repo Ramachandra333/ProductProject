@@ -1,0 +1,192 @@
+[
+  {
+    "year": 2020,
+    "price": 20000,
+    "mileage": 25000,
+    "make": "Toyota",
+    "model": "Camry",
+    "vin": "2G4GN5EX8E9464990",
+    "color": "Red",
+    "status": "Available"
+  },
+  {
+    "year": 2019,
+    "price": 18000,
+    "mileage": 30000,
+    "make": "Honda",
+    "model": "Civic",
+    "vin": "2HGEJ6576YH123456",
+    "color": "Blue",
+    "status": "Sold"
+  },
+  {
+    "year": 2018,
+    "price": 22000,
+    "mileage": 20000,
+    "make": "Ford",
+    "model": "Mustang",
+    "vin": "1FA6P8CF1J5306234",
+    "color": "Black",
+    "status": "Available"
+  },
+  {
+    "year": 2021,
+    "price": 25000,
+    "mileage": 15000,
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "vin": "1G1ZD5ST8MF123456",
+    "color": "White",
+    "status": "Available"
+  },
+  {
+    "year": 2022,
+    "price": 27000,
+    "mileage": 10000,
+    "make": "BMW",
+    "model": "X5",
+    "vin": "5UXCR6C57L9D12345",
+    "color": "Gray",
+    "status": "Available"
+  },
+  {
+    "year": 2020,
+    "price": 23000,
+    "mileage": 18000,
+    "make": "Audi",
+    "model": "A4",
+    "vin": "WAUENAF4XK1031234",
+    "color": "Silver",
+    "status": "Available"
+  },
+  {
+    "year": 2019,
+    "price": 16000,
+    "mileage": 35000,
+    "make": "Nissan",
+    "model": "Altima",
+    "vin": "1N4BL4DV3KC123456",
+    "color": "Green",
+    "status": "Available"
+  },
+  {
+    "year": 2021,
+    "price": 24000,
+    "mileage": 12000,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "vin": "5NPE34AF1MH123456",
+    "color": "Blue",
+    "status": "Available"
+  },
+  {
+    "year": 2018,
+    "price": 19000,
+    "mileage": 28000,
+    "make": "Mazda",
+    "model": "CX-5",
+    "vin": "JM3KFBDY6J0131234",
+    "color": "Red",
+    "status": "Available"
+  },
+  {
+    "year": 2022,
+    "price": 30000,
+    "mileage": 5000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "vin": "WDDWF8EB2JN123456",
+    "color": "Black",
+    "status": "Available"
+  },
+  {
+    "vin": "JM3KFBDY6J0131233",
+    "year": "2020",
+    "make": "Ferrari",
+    "model": "s90",
+    "color": "red",
+    "mileage": "10000",
+    "price": "900000",
+    "status": "Available"
+  },
+  {
+    "vin": "2G4GN5EX8E9464999",
+    "year": "2024",
+    "make": "Lambhorgani",
+    "model": "Urus",
+    "color": "orange",
+    "mileage": "10",
+    "price": "900000",
+    "status": "Available"
+  },
+  {
+    "vin": "JM3KFBDY6J0131233",
+    "year": "2020",
+    "make": "toyota",
+    "model": "suzuki",
+    "color": "red",
+    "mileage": "100000",
+    "price": "800000",
+    "status": "Available"
+  },
+  {
+    "vin": "JM3KFBDY6J0134433",
+    "year": "2024",
+    "make": "Mercedes Benz",
+    "model": "Glc",
+    "color": "black",
+    "mileage": "00000",
+    "price": "96000",
+    "status": "Sold"
+  },
+  {
+    "vin": "2HGEJ6576YH123457",
+    "year": "1969",
+    "make": "Ford",
+    "model": "mushtang GT",
+    "color": "black",
+    "mileage": "100000",
+    "price": "9000000",
+    "status": "Available"
+  },
+  {
+    "vin": "2G4GN5EX8E9464991",
+    "year": "2020",
+    "make": "ford",
+    "model": "shelby",
+    "color": "red",
+    "mileage": "10000",
+    "price": "500000",
+    "status": "Available"
+  },
+  {
+    "vin": "2G4GN5EX8E9464444",
+    "year": "2024",
+    "make": "hyundai",
+    "model": "creta",
+    "color": "orange",
+    "mileage": "20000",
+    "price": "20000",
+    "status": "Available"
+  },
+  {
+    "vin": "2G4GN5EX8E9464400",
+    "year": "2023",
+    "make": "BMW",
+    "model": "M5",
+    "color": "green",
+    "mileage": "20000",
+    "price": "540000",
+    "status": "Available"
+  },
+  {
+    "vin": "2x4GN5EX8E9464990",
+    "year": "2021",
+    "make": "ford",
+    "model": "shelby",
+    "color": "silver",
+    "mileage": "100000",
+    "price": "5600000",
+    "status": "Available"
+  }
+]
